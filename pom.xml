@@ -19,6 +19,6 @@
   </dependencies>
   
   <build>
-    <finalName>irctc_app</finalName>
+    <finalName>irctc_application</finalName>
   </build>
 </project>
